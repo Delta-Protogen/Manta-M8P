@@ -1,6 +1,7 @@
 # [切换到中文版](./README_zh_cn.md)
 
 # Note
+*this is only for an updated config file and other stuff I brake
 ## Here’s BIGTREETECH! For Makers, by makers!
 * We appreciate all of your support to BIGTREETECH! To offer an excellent experience of creation to every makers,We’re devoted to design and produce high-quality and durable accessories!
 
