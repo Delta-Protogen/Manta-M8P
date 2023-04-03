@@ -2,9 +2,9 @@
 
 # How to use Klipper on Manta M8P
 
-## NOTE: 
+## NOTE: This is not even stated yet!!!
 
-* This motherboard comes with bootloader which allows firmware update through MCU SD card.
+  * This motherboard comes with bootloader which allows firmware update through MCU SD card.
 
 ## Build Firmware Image
 
